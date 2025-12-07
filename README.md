@@ -11,7 +11,7 @@ Sou um estudante de Engenharia de Software focado em **Python** e lógica de pro
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 Estatísticas
-![Estatísticas do Tassio](https://github-readme-stats.vercel.app/api?username=Tassio-code&show_icons=true&theme=dracula)
+![Estatísticas do Tassio]((https://github-readme-stats.vercel.app/api?username=Tassio-code&show_icons=true&theme=dracula))
 
 ## 📫 Contato
 - [LinkedIn]((https://www.linkedin.com/in/tassio-medrado-de-oliveira-b176a22ab))
