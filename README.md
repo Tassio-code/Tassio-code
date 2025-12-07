@@ -6,7 +6,7 @@ Sou um estudante de Engenharia de Software focado em **Python** e lógica de pro
 * **Atualmente cursando:** Engenharia de Software na **UFR (Universidade Federal de Rondonópolis)**. 🎓
 * **Atualmente estou aprendendo:** Python (Estruturas condicionais, Loops, Lógica e Desenvolvimento de software).
 * **Também gosto de:** Criação de Artes e Design.
-* **Hobby:** Jogar Vídeo Games 🎮
+* **Hobby:** Jogar 🎮
 
 ## 🛠️ Minhas Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
