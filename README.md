@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá, eu sou o Tassio! 👋
 
-<!--
-**Tassio-code/Tassio-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Sou um estudante de tecnologia focado em **Python** e lógica de programação. Estou sempre em busca de novos desafios para aplicar o que aprendo em automação e desenvolvimento.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo: **Python (Estruturas condicionais, Loops e Lógica)**
+- 🎨 Também gosto de: **Criação de Artes e Design**
+- 🚴 Hobby: **Ciclismo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Minhas Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 Estatísticas
+![Estatísticas do Tassio](https://github-readme-stats.vercel.app/api?username=Tassio-code&show_icons=true&theme=dracula)
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
+- [Email](mailto:seuemail@gmail.com)
+Para Salvar:
