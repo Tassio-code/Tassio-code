@@ -3,7 +3,7 @@ Olá, eu sou o Tassio! 👋
 ## 🚀 Sobre mim
 Sou um estudante de Engenharia de Software focado em **Python** e lógica de programação. Estou sempre em busca de novos desafios para aplicar o que aprendo em automação e desenvolvimento.
 
-- 🌱 Atualmente estou aprendendo: **Python (Estruturas condicionais, Loops e Lógica)**
+- 🌱 Atualmente estou aprendendo: **Python (Estruturas condicionais, Loops e Lógica e Desenvolvimento de software)**
 - 🎨 Também gosto de: **Criação de Artes e Design**
 - 🚴 Hobby: **Ciclismo**
 
