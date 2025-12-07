@@ -14,6 +14,6 @@ Sou um estudante de Engenharia de Software focado em **Python** e lógica de pro
 ![Estatísticas do Tassio](https://github-readme-stats.vercel.app/api?username=Tassio-code&show_icons=true&theme=dracula)
 
 ## 📫 Contato
-- [LinkedIn]([www.linkedin.com/in/tassio-medrado-de-oliveira-b176a22ab](https://www.linkedin.com/in/tassio-medrado-de-oliveira-b176a22ab))
+- [LinkedIn]((https://www.linkedin.com/in/tassio-medrado-de-oliveira-b176a22ab))
 - [Email](tassiomedrado8@gmail.com)
 
