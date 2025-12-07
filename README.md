@@ -15,5 +15,5 @@ Sou um estudante de Engenharia de Software focado em **Python** e lógica de pro
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/tassio-medrado-de-oliveira-b176a22ab)
-- [Email]((https://mail.google.com/mail/u/0/#inbox?compose=new))
+- [Email](mailto:taassiomedrado8@gmail.com)
 
