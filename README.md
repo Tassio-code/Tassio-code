@@ -16,7 +16,7 @@ Sou um estudante de Engenharia de Software focado em **Python** e lógica de pro
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📊 Estatísticas
-![Estatísticas do Tassio]((https://github-readme-stats.vercel.app/api?username=Tassio-code&show_icons=true&theme=dracula))
+![Estatísticas do Tassio]((https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical))
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/tassio-medrado-de-oliveira-b176a22ab)
