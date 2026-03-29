@@ -1,7 +1,7 @@
 Olá, eu sou o Tassio! 👋
 
 ## 🚀 Sobre mim
-Sou um estudante de Engenharia de Software focado em **Python** e lógica de programação. Estou sempre em busca de novos desafios para aplicar o que aprendo em automação e desenvolvimento.
+Sou um estudante de Engenharia de Software. Estou sempre em busca de novos desafios para aplicar o que aprendo em automação e desenvolvimento.
 
 * **Atualmente cursando:** Engenharia de Software na **UFR (Universidade Federal de Rondonópolis)**. 🎓
 * **Atualmente estou aprendendo:** Python (Estruturas condicionais, Loops, Lógica e Desenvolvimento de software).
