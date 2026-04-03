@@ -1,24 +1,29 @@
-Olá, eu sou o Tassio! 👋
+# Olá, eu sou o Tassio! 👋
 
-## 🚀 Sobre mim
-Sou um estudante de Engenharia de Software. Estou sempre em busca de novos desafios para aplicar o que aprendo em automação e desenvolvimento.
+🚀 **Estudante de Engenharia de Software | UFR (Universidade Federal de Rondonópolis)**
 
-* **Atualmente cursando:** Engenharia de Software na **UFR (Universidade Federal de Rondonópolis)**. 🎓
-* **Atualmente estou aprendendo:** Python (Estruturas condicionais, Loops, Lógica e Desenvolvimento de software).
-* **Também gosto de:** Criação de Artes e Design.
-* **Hobby:** Jogar 🎮
+Atualmente no 2º semestre, focado em dominar os fundamentos da computação e o desenvolvimento de sistemas robustos. Acredito que entender o "baixo nível" é o que diferencia um bom engenheiro.
 
-## 🛠️ Minhas Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+---
 
-## 📊 Estatísticas
-![Estatísticas do Tassio]((https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical))
+### 🛠️ Foco Atual de Estudos:
+- **Linguagem C:** Desenvolvimento modular, ponteiros e gerenciamento de memória.
+- **Estrutura de Dados:** Implementação de algoritmos de busca, ordenação e listas encadeadas.
+- **Banco de Dados:** Fundamentos de modelagem relacional e persistência de dados.
 
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/tassio-medrado-de-oliveira-b176a22ab)
-- [Email](mailto:taassiomedrado8@gmail.com)
+### 🖥️ Tecnologias e Ferramentas:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+---
+
+### 📊 Minhas Estatísticas
+(Mantenha aqui os seus cards de estatísticas originais)
+
+---
+
+### 📫 Vamos nos conectar?
+- **LinkedIn:** [Tassio Medrado de Oliveira](https://www.linkedin.com/in/tassio-medrado-de-oliveira-b176a22ab)
+- **E-mail:** [tassiomedrado8@gmail.com](mailto:tassiomedrado8@gmail.com)
