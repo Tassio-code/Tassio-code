@@ -19,10 +19,6 @@ Atualmente no 2º semestre, focado em dominar os fundamentos da computação e o
 
 ---
 
-### 📊 Minhas Estatísticas
-(Mantenha aqui os seus cards de estatísticas originais)
-
----
 
 ### 📫 Vamos nos conectar?
 - **LinkedIn:** [Tassio Medrado de Oliveira](https://www.linkedin.com/in/tassio-medrado-de-oliveira-b176a22ab)
