@@ -23,3 +23,12 @@ Atualmente no 2º semestre, focado em dominar os fundamentos da computação e o
 ### 📫 Vamos nos conectar?
 - **LinkedIn:** [Tassio Medrado de Oliveira](https://www.linkedin.com/in/tassio-medrado-de-oliveira-b176a22ab)
 - **E-mail:** [tassiomedrado8@gmail.com](mailto:tassiomedrado8@gmail.com)
+
+
+
+
+# 🚀 Meu Portfólio
+
+Confira o projeto online aqui: [https://tassio-code.github.io/Tassio-Portfolio/](https://tassio-code.github.io/Tassio-Portfolio/)
+
+Este projeto foi desenvolvido para colocar em prática meus estudos de Engenharia de Software...
